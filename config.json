@@ -1,0 +1,9 @@
+{
+    "instances": [
+        {
+            "gameName": "milad-first",
+            "path": "d:/unity projects/uNet Advanced Lobby/server.exe",
+            "commandLineArguments": ""
+        }
+    ]
+}
